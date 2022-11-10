@@ -1,2 +1,2 @@
 # code
-pomocne kody pre kazdeho
+môžu pomôcť na FIIT
