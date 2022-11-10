@@ -1,2 +1,2 @@
 # code
-môžu pomôcť na FIIT
+Pozri branches
